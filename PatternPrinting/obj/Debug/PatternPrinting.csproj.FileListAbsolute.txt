@@ -1,0 +1,8 @@
+C:\Users\borlu\Desktop\C#\SolutionCSharp\PatternPrinting\bin\Debug\PatternPrinting.exe.config
+C:\Users\borlu\Desktop\C#\SolutionCSharp\PatternPrinting\bin\Debug\PatternPrinting.exe
+C:\Users\borlu\Desktop\C#\SolutionCSharp\PatternPrinting\bin\Debug\PatternPrinting.pdb
+C:\Users\borlu\Desktop\C#\SolutionCSharp\PatternPrinting\obj\Debug\PatternPrinting.csproj.AssemblyReference.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\PatternPrinting\obj\Debug\PatternPrinting.csproj.SuggestedBindingRedirects.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\PatternPrinting\obj\Debug\PatternPrinting.csproj.CoreCompileInputs.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\PatternPrinting\obj\Debug\PatternPrinting.exe
+C:\Users\borlu\Desktop\C#\SolutionCSharp\PatternPrinting\obj\Debug\PatternPrinting.pdb

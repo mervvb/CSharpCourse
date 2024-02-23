@@ -1,0 +1,11 @@
+C:\Users\borlu\Desktop\C#\SolutionCSharp\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\Constructor\obj\Debug\Constructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\borlu\Desktop\C#\SolutionCSharp\Constructor\bin\Debug\Constructor.exe
+C:\Users\borlu\Desktop\C#\SolutionCSharp\Constructor\bin\Debug\Constructor.pdb
+C:\Users\borlu\Desktop\C#\SolutionCSharp\Constructor\bin\Debug\ClassLibrary1.dll
+C:\Users\borlu\Desktop\C#\SolutionCSharp\Constructor\bin\Debug\ClassLibrary1.pdb
+C:\Users\borlu\Desktop\C#\SolutionCSharp\Constructor\obj\Debug\Constructor.csproj.CopyComplete
+C:\Users\borlu\Desktop\C#\SolutionCSharp\Constructor\obj\Debug\Constructor.exe
+C:\Users\borlu\Desktop\C#\SolutionCSharp\Constructor\obj\Debug\Constructor.pdb

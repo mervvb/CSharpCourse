@@ -1,0 +1,8 @@
+C:\Users\borlu\Desktop\C#\SolutionCSharp\LocalFunctionExample\bin\Debug\LocalFunctionExample.exe.config
+C:\Users\borlu\Desktop\C#\SolutionCSharp\LocalFunctionExample\bin\Debug\LocalFunctionExample.exe
+C:\Users\borlu\Desktop\C#\SolutionCSharp\LocalFunctionExample\bin\Debug\LocalFunctionExample.pdb
+C:\Users\borlu\Desktop\C#\SolutionCSharp\LocalFunctionExample\obj\Debug\LocalFunctionExample.csproj.AssemblyReference.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\LocalFunctionExample\obj\Debug\LocalFunctionExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\LocalFunctionExample\obj\Debug\LocalFunctionExample.csproj.CoreCompileInputs.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\LocalFunctionExample\obj\Debug\LocalFunctionExample.exe
+C:\Users\borlu\Desktop\C#\SolutionCSharp\LocalFunctionExample\obj\Debug\LocalFunctionExample.pdb

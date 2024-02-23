@@ -1,0 +1,8 @@
+C:\Users\borlu\Desktop\C#\SolutionCSharp\MethodsArguments\bin\Debug\MethodsArguments.exe.config
+C:\Users\borlu\Desktop\C#\SolutionCSharp\MethodsArguments\bin\Debug\MethodsArguments.exe
+C:\Users\borlu\Desktop\C#\SolutionCSharp\MethodsArguments\bin\Debug\MethodsArguments.pdb
+C:\Users\borlu\Desktop\C#\SolutionCSharp\MethodsArguments\obj\Debug\MethodsArguments.csproj.AssemblyReference.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\MethodsArguments\obj\Debug\MethodsArguments.csproj.SuggestedBindingRedirects.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\MethodsArguments\obj\Debug\MethodsArguments.csproj.CoreCompileInputs.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\MethodsArguments\obj\Debug\MethodsArguments.exe
+C:\Users\borlu\Desktop\C#\SolutionCSharp\MethodsArguments\obj\Debug\MethodsArguments.pdb

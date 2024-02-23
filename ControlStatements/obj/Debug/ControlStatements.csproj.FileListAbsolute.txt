@@ -1,0 +1,8 @@
+C:\Users\borlu\Desktop\C#\SolutionCSharp\ControlStatements\bin\Debug\ControlStatements.exe.config
+C:\Users\borlu\Desktop\C#\SolutionCSharp\ControlStatements\bin\Debug\ControlStatements.exe
+C:\Users\borlu\Desktop\C#\SolutionCSharp\ControlStatements\bin\Debug\ControlStatements.pdb
+C:\Users\borlu\Desktop\C#\SolutionCSharp\ControlStatements\obj\Debug\ControlStatements.csproj.AssemblyReference.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\ControlStatements\obj\Debug\ControlStatements.csproj.SuggestedBindingRedirects.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\ControlStatements\obj\Debug\ControlStatements.csproj.CoreCompileInputs.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\ControlStatements\obj\Debug\ControlStatements.exe
+C:\Users\borlu\Desktop\C#\SolutionCSharp\ControlStatements\obj\Debug\ControlStatements.pdb

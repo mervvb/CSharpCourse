@@ -1,0 +1,8 @@
+C:\Users\borlu\Desktop\C#\SolutionCSharp\TypeConversionDemo\bin\Debug\TypeConversionDemo.exe.config
+C:\Users\borlu\Desktop\C#\SolutionCSharp\TypeConversionDemo\bin\Debug\TypeConversionDemo.exe
+C:\Users\borlu\Desktop\C#\SolutionCSharp\TypeConversionDemo\bin\Debug\TypeConversionDemo.pdb
+C:\Users\borlu\Desktop\C#\SolutionCSharp\TypeConversionDemo\obj\Debug\TypeConversionDemo.csproj.AssemblyReference.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\TypeConversionDemo\obj\Debug\TypeConversionDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\TypeConversionDemo\obj\Debug\TypeConversionDemo.csproj.CoreCompileInputs.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\TypeConversionDemo\obj\Debug\TypeConversionDemo.exe
+C:\Users\borlu\Desktop\C#\SolutionCSharp\TypeConversionDemo\obj\Debug\TypeConversionDemo.pdb

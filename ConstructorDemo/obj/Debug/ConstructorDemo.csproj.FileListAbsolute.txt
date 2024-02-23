@@ -1,0 +1,8 @@
+C:\Users\borlu\Desktop\C#\SolutionCSharp\ConstructorDemo\bin\Debug\ConstructorDemo.exe.config
+C:\Users\borlu\Desktop\C#\SolutionCSharp\ConstructorDemo\bin\Debug\ConstructorDemo.exe
+C:\Users\borlu\Desktop\C#\SolutionCSharp\ConstructorDemo\bin\Debug\ConstructorDemo.pdb
+C:\Users\borlu\Desktop\C#\SolutionCSharp\ConstructorDemo\obj\Debug\ConstructorDemo.csproj.AssemblyReference.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\ConstructorDemo\obj\Debug\ConstructorDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\ConstructorDemo\obj\Debug\ConstructorDemo.csproj.CoreCompileInputs.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\ConstructorDemo\obj\Debug\ConstructorDemo.exe
+C:\Users\borlu\Desktop\C#\SolutionCSharp\ConstructorDemo\obj\Debug\ConstructorDemo.pdb

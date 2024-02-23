@@ -1,0 +1,8 @@
+C:\Users\borlu\Desktop\C#\SolutionCSharp\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\borlu\Desktop\C#\SolutionCSharp\Recursion\bin\Debug\Recursion.exe
+C:\Users\borlu\Desktop\C#\SolutionCSharp\Recursion\bin\Debug\Recursion.pdb
+C:\Users\borlu\Desktop\C#\SolutionCSharp\Recursion\obj\Debug\Recursion.csproj.AssemblyReference.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\Recursion\obj\Debug\Recursion.csproj.SuggestedBindingRedirects.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\Recursion\obj\Debug\Recursion.exe
+C:\Users\borlu\Desktop\C#\SolutionCSharp\Recursion\obj\Debug\Recursion.pdb
